@@ -1,0 +1,20 @@
+{
+    "name": "Virsabi.Core.Editor",
+    "references": [
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:7d24f9b962063644694ce04646730484",
+        "GUID:8c5e041e1f1e061459e62b2fc577c761",
+        "GUID:27757a8a34f02cb4ababfbdd76cf727c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

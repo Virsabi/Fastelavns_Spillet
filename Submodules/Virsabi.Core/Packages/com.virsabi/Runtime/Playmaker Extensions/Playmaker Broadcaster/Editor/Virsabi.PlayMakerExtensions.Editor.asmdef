@@ -1,0 +1,20 @@
+{
+    "name": "Virsabi.PlayMakerExtensions.Editor",
+    "references": [
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:3efad2a7c69995c488fcf4d304895f5a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PLAYMAKER_EXTENSIONS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

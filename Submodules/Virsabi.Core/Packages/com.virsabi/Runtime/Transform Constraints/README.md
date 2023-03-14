@@ -1,0 +1,1 @@
+Simple scripts to attatch objects relative to other objects. Some scripts has smoothing option - others has yet to have it implemented.

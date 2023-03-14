@@ -1,0 +1,60 @@
+{
+  "name": "com.virsabi",
+  "version": "1.1.1",
+  "displayName": "Virsabi.Core",
+  "description": "Internal scripts, shaders, and tools for development.",
+  "unity": "2018.3",
+  "keywords": [
+    "attributes",
+    "extensions",
+    "editor tools"
+  ],
+  "author": {
+    "name": "Virsabi",
+    "email": "vr@virsabi.com",
+    "url": "http://virsabi.com/"
+  },
+  "samples": [
+    {
+      "displayName": "Splash Screen System",
+      "description": "Two example scenes for the splashscreen system. One basic, and one setup for VR",
+      "path": "Samples~/SplashScreenSystem"
+    },
+    {
+      "displayName": "Virsabi Brand Resources",
+      "description": "Logos etc.",
+      "path": "Samples~/VirsabiBrandResources"
+    },
+    {
+      "displayName": "Help Attribute Example Scene",
+      "description": "Help",
+      "path": "Samples~/HelpAttribute"
+    },
+    {
+      "displayName": "SceneChanger Example Scene",
+      "description": "SceneChanger",
+      "path": "Samples~/SceneChanger"
+    },
+    {
+      "displayName": "SnappingLaserPointer Example Scene",
+      "description": "SnappingLaserPointer",
+      "path": "Samples~/SnappingLaserPointer"
+    },
+    {
+      "displayName": "Tween Example Scenes",
+      "description": "Tween Example Scenes",
+      "path": "Samples~/Tween"
+    },
+    {
+      "displayName": "Scene Opener Windows",
+      "description": "Needs to be a sample due to writing to .cs file",
+      "path": "Samples~/SceneOpenerWindows"
+    },
+    {
+      "displayName": "URP Shader Library",
+      "description": "All kinds of swifty shaders",
+      "path": "Samples~/Shader Library/URP"
+    }
+  ],
+  "type": "library"
+}

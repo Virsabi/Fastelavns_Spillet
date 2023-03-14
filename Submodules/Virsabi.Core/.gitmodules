@@ -1,0 +1,17 @@
+[submodule "Packages/com.virsabi/Runtime/Third Party/MyBox"]
+	path = Packages/com.virsabi/Runtime/Third Party/MyBox
+url=https://github.com/Virsabi/MyBox
+[submodule "Packages/com.virsabi/Editor/Third Party/QuickSceneSwitcher"]
+	path = Packages/com.virsabi/Editor/Third Party/QuickSceneSwitcher
+	url = https://github.com/Kelvin-CD/Quick-Scene-Switcher.git
+	branch = upm
+[submodule "Packages/com.virsabi/Runtime/Third Party/UnityHierarchyFolders"]
+	path = Packages/com.virsabi/Runtime/Third Party/UnityHierarchyFolders
+	url = https://github.com/xsduan/unity-hierarchy-folders.git
+[submodule "Packages/com.virsabi/Runtime/Third Party/PlayerPrefsEditor"]
+	path = Packages/com.virsabi/Runtime/Third Party/PlayerPrefsEditor
+	url = https://github.com/sabresaurus/PlayerPrefsEditor
+[submodule "Packages/com.virsabi/Runtime/Third Party/WeightedItemRandomizer"]
+	path = Packages/com.virsabi/Runtime/Third Party/WeightedItemRandomizer
+	url = https://github.com/JesseTG/Weighted-Item-Randomizer-for-C-Sharp
+	branch = upm

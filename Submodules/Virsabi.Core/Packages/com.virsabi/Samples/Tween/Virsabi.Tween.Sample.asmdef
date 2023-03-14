@@ -1,0 +1,16 @@
+{
+    "name": "Virsabi.Tween.Sample",
+    "references": [
+        "GUID:8915744db170b3647bc89bafde3dce22",
+        "GUID:989ce9fe93944674881c57351e6d71b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

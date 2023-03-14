@@ -1,0 +1,16 @@
+{
+    "name": "Virsabi.Core.SplashScreenCreator",
+    "references": [
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:13e0b6ace59f2524782030516759f2cb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

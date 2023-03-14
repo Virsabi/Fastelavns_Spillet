@@ -1,0 +1,18 @@
+{
+    "name": "Virsabi.Core.DebugTools",
+    "references": [
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:989ce9fe93944674881c57351e6d71b8",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:27757a8a34f02cb4ababfbdd76cf727c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

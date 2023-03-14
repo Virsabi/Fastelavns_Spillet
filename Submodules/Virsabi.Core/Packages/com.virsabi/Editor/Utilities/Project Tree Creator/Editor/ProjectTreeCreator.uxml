@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+
+xsi:noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd"
+xsi:schemaLocation="
+                        UnityEngine.UIElements ../../../../../UIElementsSchema/UnityEngine.UIElements.xsd
+                        UnityEditor.UIElements ../../../../../UIElementsSchema/UnityEditor.UIElements.xsd
+                        UnityEditor.Rendering.Experimental.LookDev ../../../../../UIElementsSchema/UnityEditor.Rendering.Experimental.LookDev.xsd
+                        UnityEditor.PackageManager.UI ../../../../../UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+"
+>
+    <engine:Label class="header" text="Project Tree Creator"/>
+    <engine:Label class="author" text="Author: Mikkel S. K. Mogensen | mm@virsabi.com"/>
+    <engine:Box>
+        <engine:ScrollView>
+            <engine:TextElement text="This utility can be used to easily generate a project tree based on established conventions within the company. It is highly recommended to use this folder to set up a new project. Additions to the folder structure should be discussed with the developers. Note that folders that already exist are shown in bold. You can go to the location of an existing folder by clicking on it in the hierarchy."></engine:TextElement>
+        </engine:ScrollView>
+    </engine:Box>
+    
+    <engine:Label class="instructions" text="Select the folders below you want to add to the project."/>
+    <engine:ListView name="FolderList"></engine:ListView>
+    <engine:Button name="Select Button" text="Select All" tooltip="Select all folders."></engine:Button>
+    <engine:Button name="Deselect Button" text="Deselect All" tooltip="Deselect all folders."></engine:Button>
+    <engine:Button name="Generate Button" text="Generate" tooltip="Press this button to generate the project tree."></engine:Button>
+    
+</engine:UXML>

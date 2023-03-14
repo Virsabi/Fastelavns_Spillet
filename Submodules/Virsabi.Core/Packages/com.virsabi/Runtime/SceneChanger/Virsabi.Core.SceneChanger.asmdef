@@ -1,0 +1,18 @@
+{
+    "name": "Virsabi.Core.SceneChanger",
+    "references": [
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:52852275d38c33f46989abcdf5378b6a",
+        "GUID:989ce9fe93944674881c57351e6d71b8",
+        "GUID:13d28233bee5db94b84937058953264c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

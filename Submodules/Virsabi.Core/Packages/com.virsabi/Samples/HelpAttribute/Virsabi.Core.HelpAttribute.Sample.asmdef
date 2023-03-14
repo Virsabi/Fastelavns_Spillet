@@ -1,0 +1,15 @@
+{
+    "name": "Virsabi.Core.HelpAttribute.Sample",
+    "references": [
+        "GUID:989ce9fe93944674881c57351e6d71b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

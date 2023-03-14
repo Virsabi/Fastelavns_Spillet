@@ -1,0 +1,53 @@
+.header {
+    font-size: 20px;
+    align-self: center;
+    -unity-font-style: bold;
+    color: #ffffff;
+}
+
+.author {
+    font-size: 10px;
+    align-self: center;
+    -unity-font-style: bold;
+    color: #ffffff;
+}
+
+Box {
+    flex-wrap: wrap;
+    flex-grow: initial;
+    height: 150;
+    margin-left: 10;
+    margin-right: 10;
+    justify-content: center;
+    min-height: 100;
+}
+
+TextElement {
+    margin: 10;
+}
+
+
+.instructions {
+    font-size: 15px;
+    align-self: center;
+    -unity-font-style: bold;
+    color: #ffffff;
+}
+
+.existing {
+    -unity-font-style: bold;
+}
+
+.existing:hover {
+    -unity-font-style: bold;
+    color: #878787  
+}
+
+.itemcontainer {
+    margin-left: 10;
+    flex-direction: row;
+}
+
+ListView {
+    height: 1000;
+}

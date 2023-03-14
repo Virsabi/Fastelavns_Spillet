@@ -1,0 +1,16 @@
+{
+    "name": "Virsabi.Core.Editor.HelpAttribute",
+    "references": [
+        "GUID:a7822088d67cb6147a4e7b4ea0942a6f",
+        "GUID:27757a8a34f02cb4ababfbdd76cf727c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
